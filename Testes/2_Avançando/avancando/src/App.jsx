@@ -1,6 +1,8 @@
 import './App.css'
 import night from './assets/night.jpg'
 import Data from './components/Data'
+import ListRender from "./components/ListRender.jsx";
+import ConditionalRender from "./components/ConditionalRender.jsx";
 function App() {
 
   return (
@@ -12,6 +14,10 @@ function App() {
       <img src={night} alt="Outra imagem" />
       {/* useState */}
       <Data/>
+      {/*List render*/}
+      <ListRender/>
+      {/*Render condicional*/}
+      <ConditionalRender/>
     </div>
    
   )
