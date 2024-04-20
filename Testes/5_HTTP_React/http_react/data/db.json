@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "name": "capa de chuva",
+      "price": "50,50",
+      "id": "5"
+    },
+    {
+      "name": "teclado",
+      "price": "110",
+      "id": "6"
+    },
+    {
+      "name": "cadeira",
+      "price": "200",
+      "id": "7"
+    },
+    {
+      "id": "91d0",
+      "name": "abababa",
+      "price": "200"
+    },
+    {
+      "id": "9554",
+      "name": "carregamento dinamico",
+      "price": "20"
+    },
+    {
+      "id": "00fe",
+      "name": "mais um",
+      "price": "100"
+    },
+    {
+      "id": "31e6",
+      "name": "mais um",
+      "price": "100"
+    },
+    {
+      "id": "d67a",
+      "name": "adada",
+      "price": "10"
+    },
+    {
+      "id": "8a67",
+      "name": "aaa",
+      "price": "10"
+    },
+    {
+      "id": "98c6",
+      "name": "aaa",
+      "price": "10"
+    },
+    {
+      "id": "4651",
+      "name": "aaa",
+      "price": "10"
+    },
+    {
+      "id": "a944",
+      "name": "aaa",
+      "price": "10"
+    },
+    {
+      "id": "77f2",
+      "name": "adsad",
+      "price": "asd"
+    },
+    {
+      "id": "c95c",
+      "name": "adsad",
+      "price": "asd"
+    },
+    {
+      "id": "54e8",
+      "name": "adsad",
+      "price": "asd"
+    },
+    {
+      "id": "ecdb",
+      "name": "adsad",
+      "price": "asd"
+    }
+  ]
+}
